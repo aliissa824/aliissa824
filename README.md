@@ -1,16 +1,16 @@
-## Hi there 👋
+# Ali Issa
 
-<!--
-**aliissa824/aliissa824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied Mathematics student at Hochschule Mittweida with a strong interest in AI engineering, machine learning systems, and applied research.
 
-Here are some ideas to get you started:
+## Areas of Interest
+- Machine Learning
+- Computer Vision
+- LLMs & RAG
+- AI Systems
+- Optimization Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Python • PyTorch • TensorFlow • scikit-learn • NumPy • pandas
+
+## Current Focus
+Building production-oriented AI systems with strong mathematical foundations.
