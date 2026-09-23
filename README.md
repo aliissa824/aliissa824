@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aliissa824"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:aliissa824ai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Based_in-Germany-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open_to-AI_Engineering_roles-2ea44f?style=for-the-badge" />
 </p>
@@ -24,10 +24,10 @@
 ```python
 class Ali:
     def __init__(self):
-        self.role     = "Applied Mathematics student"
+        self.role     = "Applied Mathematics student and student researcher"
         self.school   = "Hochschule Mittweida, Germany"
-        self.focus    = ["Machine Learning", "LLMs", "Optimization"]
-        self.learning = ["Fine-tuning", "MLOps", "Deutsch"]
+        self.focus    = ["AI", "LLMs", "Machine Learning" , "Optimization"]
+        self.learning = ["Fine-tuning", "MLOps", "RAG", "Deutsch"]
 
     def motto(self):
         return "Understand the math, then make it run."
@@ -38,7 +38,6 @@ class Ali:
 - 🔬 Working in university research alongside my studies
 - 🛠️ Most at home in **Python**, building things end to end rather than leaving them in a notebook
 - 🌍 Grew up in Lebanon, now living and studying in Germany
-- ☕ Outside of code: maths problems, markets, and slowly improving my German
 
 ---
 
@@ -67,5 +66,5 @@ I'm always open to a conversation about AI, mathematics, or interesting problems
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aliissa824">LinkedIn</a> ·
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="mailto:aliissa824ai@gmail.com">Email</a>
 </p>
